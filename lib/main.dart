@@ -60,9 +60,7 @@ class _BMIcalcState extends State<BMIcalc> {
                     radioButton("Woman", Colors.pink, 1)
                   ],
                 ),
-                SizedBox(
-                  height: 20.0,
-                ),
+                SizedBox(height: 20.0,),
                 Text(
                   "Your height in Cms: ",
                   style: TextStyle(
@@ -126,6 +124,7 @@ class _BMIcalcState extends State<BMIcalc> {
                 Container(
                   width: double.infinity,
                   height: 50.0,
+                  // ignore: deprecated_member_use
                   child: FlatButton(
                     onPressed: () {
                       setState(() {
@@ -196,6 +195,7 @@ class _BMIcalcState extends State<BMIcalc> {
       child: Container(
         margin: EdgeInsets.symmetric(horizontal: 12.0),
         height: 80.0,
+        // ignore: deprecated_member_use
         child: FlatButton(
           color: currindex == index ? color : Colors.grey[200],
           shape: RoundedRectangleBorder(
