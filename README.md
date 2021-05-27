@@ -1,16 +1,6 @@
-# bmi
+App to calculate your BMI (Body Mass Index) with a fairly easy to use interface. App has been made uusing flutter, feel free to fork, clone and check out the project. Suggestions to improve and constructive criticism always welcome.
 
-A new Flutter project.
 
-## Getting Started
+If you like what I create/make support from you guys is deeply appreciated. Please check out the link below :)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.buymeacoffee.com/RohanSwift
